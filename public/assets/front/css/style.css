@@ -1,32 +1,15 @@
-html{
-    scroll-behavior: smooth;
-}
-body{
-    margin: 0;
-    padding: 0;
-    font-size: 16px;
-    min-width: 320px;
-    font-weight: 300;
-    position: relative;
-    line-height: 1.6;
-    font-family: "Poppins", sans-serif;
-    overflow-x: hidden;
-    height: 3000px;
-}
-
-
 /*navbar*/
 .navbar{
-    background-color: #333;
+    background-color: #fff;
     font-family: "Poppins", sans-serif;
     
 }
 
 .navbar-brand{
-    color: #fff;
-    border: 2px solid #fff;
+    /* color: #333;
+    border: 2px solid #333;
     padding: 5px;
-    margin-left: 5%;
+    margin-left: 5%; */
 }
 .navbar-brand:hover{
     color:#fff;
@@ -37,21 +20,19 @@ body{
     display: inline-flex;
 }
 .navbar ul li a{
-    color: white;
+    color: #333;
     transition: all .5s ease;
     margin: 5px;
 }
 .navbar ul li a:hover,.navbar ul li.active a{
-    color: #c69c6d !important;
+    color: #0f4787 !important;
 }
 .navbar-toggler:focus{
      outline: none;
 }
-.navbar-toggler span{
-    color:#fff
+.navbar-toggler span {
+    color: #333;
 }
 .navbar .hide{
     display: none;
 }
-
-

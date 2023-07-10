@@ -16,14 +16,14 @@
         <i class="fa fa-angle-right"></i>
     </div>
     <div class="slide-point">
-        <span data-class="1" class="active point1"></span>
-        <span data-class="2" class="point2"></span>
-        <span data-class="3" class="point3"></span>
-        <span class="point4" data-class="4"></span>
+        <!-- <span data-class="1" class="active point1"></span>
+        <span data-class="2" class="point2"></span> -->
+        <span data-class="1" class="point1 active"></span>
+        <span class="point2" data-class="2"></span>
     </div>
     <div class="overlay"></div>
     <div class="owl-carousel">
-        <div class="digitalAgency slide-1 slide ">
+        <!-- <div class="digitalAgency slide-1 slide ">
             <div>
                 <div class="title wow fadeInDown" data-wow-duration="1s" data-wow-delay=".2s">
                     KER<span>NEL</span>
@@ -61,30 +61,33 @@
 
 
             </div>
-        </div>
-        <div class="innovation slide-3 slide hide">
+        </div> -->
+        <div class="innovation slide-1 slide ">
             <div>
                 <div class="title wow fadeInDown " data-wow-duration="1s" data-wow-delay=".2s">
-                    INNOVATION
-                </div>
+                INNOVATION
+
+            </div>
                 <div class="holder">
                 </div>
                 <div class="slide-text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-                    Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est
-                    notare quam littera gothica, quam nunc putamus parum
-                </div>
+                      CT Web Design & Development
+                      Your Trusted Company for Beautiful, Custom Web Design & Development Services
+               </div>
+               
 
             </div>
         </div>
 
-        <div class="kernal_info slide-4 slide hide">
+        <div class="kernal_info slide-2 slide hide">
             <div>
                 <div>
-                    <img src="./image/construction.png" />
+                    <img src="{{URL::asset('assets/front/image/construction.png')}}" />
                 </div>
-                <div class="title wow fadeInDown " data-wow-duration="1s" data-wow-delay=".2s">KERNAL AGENCY</div>
+                <div class="title wow fadeInDown " data-wow-duration="1s" data-wow-delay=".2s">TESMA</div>
                 <div class="slide-button">
-                    <a href="#">WHO WE ARE</a>
+                    <a href="#" class="active">GET STARTED</a>
+                    <a href="#">CONTACT US</a>
                 </div>
             </div>
         </div>

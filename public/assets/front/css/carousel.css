@@ -1,5 +1,6 @@
 .owl-carousel,.slide{
     position: relative;
+    height: 600px;
 }
 .overlay{
     position: absolute;
@@ -13,8 +14,8 @@
 .slide-point{
     position: absolute;
     right: 20px;
-    top: 0;
-    margin-top: 93vh;
+    top: 90%;
+    /* margin-top: 93%; */
     height: 30px;
     z-index: 999;
 }
@@ -35,8 +36,8 @@
 .slide-arrow{
     width: 30px;
     position: absolute;
-    top: 0;
-    margin-top: 50vh;
+    top: 50%;
+    /* //margin-top: 50vh; */
     height: 30px;
     background-color:#4e4e4e;
     font-size: 30px;
@@ -67,7 +68,7 @@
 }
 .digitalAgency,.innovation,.videoAgency,.kernal_info{
     width: 100%;
-    height: 100vh;
+    height: 100%;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -149,7 +150,7 @@
     font-weight: 700;
 }
 .digitalAgency span{
-    color: #c69c6d;
+    color: #0f4787;
 }
 .digitalAgency .slide-title,.videoAgency .slide-title{
     font-size: 1.625rem;
@@ -167,7 +168,7 @@
     padding: 15px 30px 15px 31px;
     margin: 25px 10px;
     display: inline-block;
-    border: 2px solid #c69c6d;
+    border: 2px solid #0f4787;
     transition: all .5s ease;
     border-radius: 30px;
     font-size: 14px;
@@ -192,11 +193,11 @@
 
 
 .digitalAgency .slide-button>a.active,.videoAgency .slide-button>a.active,.kernal_info .slide-button>a.active{
-    background-color: #c69c6d;
+    background-color: #0f4787;
     border: 2px solid white;
 }
 .digitalAgency .slide-button>a:hover,.videoAgency .slide-button>a:hover,.kernal_info .slide-button>a:hover{
-    background-color: #c69c6d;
+    background-color: #0f4787;
    
 }
 .videoAgency .title>span{
@@ -213,8 +214,8 @@
     transition: all .5s ease;
 }
 .videoAgency .title>span:hover{
-    border: 2px solid #c69c6d ;
-    color: #c69c6d;
+    border: 2px solid #0f4787 ;
+    color: #0f4787;
 }
 .videojs{
     position: absolute;

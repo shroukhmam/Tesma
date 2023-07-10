@@ -56,6 +56,8 @@
          @include('pages.front.layout.navbar')
          @include('pages.front.layout.slider')
 
+         @include('pages.front.layout.about')
+
        
     </div>
 

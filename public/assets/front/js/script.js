@@ -55,7 +55,7 @@ $(".slide-arrow").each(function(){
     $(this).on("click",function(){
        
         if($(this).hasClass("next")){
-            if(slidecount<4){
+            if(slidecount<2){
                 slidecount++;
             }else{
                 slidecount=1;
@@ -65,7 +65,7 @@ $(".slide-arrow").each(function(){
             if(slidecount>1){
                 slidecount--;
             }else{
-                slidecount=4;
+                slidecount=2;
             }
             
         }
