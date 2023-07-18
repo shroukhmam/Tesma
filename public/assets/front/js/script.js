@@ -103,90 +103,93 @@ $(".btn-down").mouseenter(function(){
 
 //service
 
-// $('.responsive').slick({
-//     infinite: false,
-//     speed: 400,
-//     slidesToShow: 4,
-//     slidesToScroll: 1,
-//     arrows:false,
-//     responsive: [
-//       {
+$('.responsive').slick({
+    infinite: false,
+    speed: 400,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    arrows:false,
+    dots: true,
+    autoplay: true,
+    autoplaySpeed: 5000,
+    responsive: [
+      {
         
        
-//           breakpoint: 768,
-//           settings: {
-//             slidesToShow: 2,
-//             slidesToScroll: 2,
-//             infinite: true,
-//              dots: true
+          breakpoint: 768,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 2,
+            infinite: true,
+             dots: true
           
-//         }
-//       },{
+        }
+      },{
 
-//           breakpoint: 480,
-//           settings: {
-//             slidesToShow: 1,
-//             slidesToScroll: 1,
-//             infinite: true,
-//             dots: true
-//           }}
+          breakpoint: 480,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            infinite: true,
+            dots: true
+          }}
       
      
-//     ]
-//   });
+    ]
+  });
 
 
 
-// $(".big-circle").mouseenter(function(){
-//     var i=0;
-//     var k=1;
-//     var big=setInterval(() => {
-//         $(this).animate({
-//             width:"+=15",
-//             height:"+=15"
-//         },50)
-//         $(this).css({"border":"0px solid rgba(198, 156, 109,"+k+")"}).animate({
-//             'borderWidth':"9px"
+$(".big-circle").mouseenter(function(){
+    var i=0;
+    var k=1;
+    var big=setInterval(() => {
+        $(this).animate({
+            width:"+=15",
+            height:"+=15"
+        },50)
+        $(this).css({"border":"0px solid rgba(198, 156, 109,"+k+")"}).animate({
+            'borderWidth':"9px"
             
-//         },50)
+        },50)
         
-//             $(this).find(".icon").animate({
-//                 width:"-=2",
-//                 height:"-=2"
-//             },50)
+            $(this).find(".icon").animate({
+                width:"-=2",
+                height:"-=2"
+            },50)
         
       
-//         i++;
-//         k=k-0.2;
-//         if(i==6){
-//             clearInterval(big)
-//         }
-//     }, 100);
-// })
+        i++;
+        k=k-0.2;
+        if(i==6){
+            clearInterval(big)
+        }
+    }, 100);
+})
 
-// $(".big-circle").mouseleave(function(){
-//     var i=0;
+$(".big-circle").mouseleave(function(){
+    var i=0;
     
-//     var big=setInterval(() => {
-//         $(this).animate({
-//             width:"-=15",
-//             height:"-=15",
+    var big=setInterval(() => {
+        $(this).animate({
+            width:"-=15",
+            height:"-=15",
             
-//         },50)
+        },50)
        
-//         $(this).find(".icon").animate({
-//             width:"+=2",
-//             height:"+=2"
-//         },50)
+        $(this).find(".icon").animate({
+            width:"+=2",
+            height:"+=2"
+        },50)
       
        
-//         i++;
+        i++;
     
-//         if(i==6){
-//             clearInterval(big);
-//         }
-//     }, 100);
-// })
+        if(i==6){
+            clearInterval(big);
+        }
+    }, 100);
+})
 
 
 

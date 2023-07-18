@@ -57,6 +57,8 @@
          @include('pages.front.layout.slider')
 
          @include('pages.front.layout.about')
+         @include('pages.front.layout.service')
+         @include('pages.front.layout.contact')
 
        
     </div>

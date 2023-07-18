@@ -29,7 +29,7 @@
     z-index: 999;
 }
 .service-title{
-    color: #fff;
+    color: #0f4787;
     font-size: 45px;
     text-transform: uppercase;
     margin-top: 0;
@@ -44,7 +44,7 @@
     display: block;
     width: 50px;
     height: 2px;
-    background-color: #c69c6d;
+    background-color: #D92133;
     margin:20px auto;
 }
 .service-text{
@@ -76,25 +76,26 @@ color: #eee;
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    border: 2px solid white;
+    border: 2px solid black;
     transform: translateX(-50%);
     margin-left: 6px;
 }
 .slick-dots li.slick-active{
-    background-color: #fff;
+    background-color: black;
 }
 .slick-dots li button{
     display: none;
 }
 
 .brand{
-    background-color: #1b1b1b;
+    background-color:#0f4787;
     color: white;
     padding: 5px;
     width: 90%!important;
     margin-bottom: 20px;
     margin-top: 30px;
     transition: all .2s ease;
+    padding-top: 30px;
 
 }
 .brand:hover{
@@ -174,7 +175,7 @@ color: #eee;
     font-weight: bold;
 }
 .servicet span{
-    color: #c69c6d;
+    color: #D92133;
 }
 .servicet .heading-title{
     font-size: 14px;
@@ -187,7 +188,7 @@ color: #eee;
 }
 .servicet p{
     font-size: 14px;
-    color: #585858;
+    color: black;
     margin-bottom: 0;
     font-family:  sans-serif;
     margin-bottom: 50px;
@@ -314,7 +315,7 @@ color: #eee;
     height: 2px;
     display: block;
     margin-bottom: 10px;
-    background-color: #c69c6d;
+    background-color: #D92133;
     margin-left: 0;
 }
 .servicethree .icons {

@@ -22,7 +22,7 @@
 .contact h2{
     font-size: 27px;
     letter-spacing: 1px;
-    color: #fff;
+    color: #0f4787;
     font-weight: 500;
     text-transform: uppercase;
 }
@@ -55,8 +55,12 @@
     font-weight: 500!important;
     font-size: 16px !important;
 }
+
 .contact span,.contact p>i{
-    color: #c69c6d;
+    color: #0f4787;
+}
+.contact span.red{
+    color: #D92133;
 }
 .contact p>i{
     display: inline-block;
@@ -75,7 +79,7 @@
     width: 50px;
     height: 2px;
     margin: 10px auto;
-    background-color: #c69c6d;
+    background-color: #D92133;
 }
 
 .contact ul{
@@ -102,18 +106,18 @@
     border-radius: 4px;
     text-align: center;
     line-height: 32px;
-    background-color: #c69c6d;
+    background-color: #0f4787;
     color: white;
     transform:rotate(-45deg);
 }
 .contact ul li a:hover{
-    background-color: #504645;
+    background-color: #D92133;
 }
 .contact ul li i {
     transform: rotate(45deg);
 }
 .contact input,.contact textarea{
-    background-color: #504645;
+    background-color: #0f4787;
     border: none;
     border-radius: 3px;
     border-bottom: 2px solid rgba(96, 96, 96, 0.7);
@@ -128,19 +132,19 @@
 }
 .contact input:hover,.contact textarea:hover{
     outline: none;
-    border-bottom: 2px solid #c69c6d;
+    border-bottom: 2px solid #D92133;
 }
 .contact input:focus,.contact textarea:focus{
     outline: none;
     box-shadow: none;
-    border-bottom: 2px solid #c69c6d;
+    border-bottom: 2px solid #0f4787;
     background-color: #504645;
 }
 .contact input[type="submit"]{
     float: right;
     background-color: #fff;
     color: #555;
-    border: 2px solid #c69c6d;
+    border: 2px solid #0f4787;
     font-weight: 600;
     padding-top: 13px;
     padding-bottom: 13px;
@@ -152,7 +156,7 @@
     
 }
 .contact input[type="submit"]:hover{
-    background-color: #504645;
+    background-color: #0f4787;
     color: #fff;
     border-color: #fff;
 }
