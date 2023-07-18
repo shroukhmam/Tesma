@@ -61,6 +61,12 @@
     left: 0;
     
 }
+.icon{
+    width: 500px;
+}
+.buttons{
+    margin-top: -92px;
+}
 @media(max-width:768px){
     .next, .prev{
         opacity: 0;

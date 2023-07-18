@@ -128,17 +128,20 @@
    padding-left: 20px;
    padding-right: 20px;
    margin-bottom: 10px;
-   color: #eeeeee;
+  
 }
 .contact input:hover,.contact textarea:hover{
     outline: none;
     border-bottom: 2px solid #D92133;
+    background-color: #fff;
+    color: #0f4787;
 }
 .contact input:focus,.contact textarea:focus{
     outline: none;
     box-shadow: none;
     border-bottom: 2px solid #0f4787;
-    background-color: #504645;
+    background-color: #fff;
+    color: #0f4787;
 }
 .contact input[type="submit"]{
     float: right;

@@ -13,8 +13,8 @@
                 <li class="nav-item" data-class=".about">
                     <a class="nav-link" href="#about">ABOUT</a>
                </li>
-               <li class="nav-item" data-class=".services">
-                    <a class="nav-link" href="#services">SERVICES</a>
+               <li class="nav-item" data-class=".servicet">
+                    <a class="nav-link" href="#servicet">SERVICES</a>
                </li>
                <li class="nav-item" data-class=".works">
                     <a class="nav-link" href="#works">OURWORKS</a>

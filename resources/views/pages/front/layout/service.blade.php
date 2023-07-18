@@ -1,9 +1,9 @@
-<section class="servicet">
+<section class="servicet" id="servicet">
                 <div class="overlay"></div>
              <div class="container services">
                 
                 <div class="col-md-8 offset-md-2">
-                     <h2 class="service-title wow fadeInDown " data-wow-duration="1s" data-wow-delay=".2s">OUR<span>SERVICE</span></h2>
+                     <h2 class="service-title wow fadeInDown " data-wow-duration="1s" data-wow-delay=".2s">WHAT WE <span>OFFER</span></h2>
                      <span class="line"></span>
                      <p class="service-text wow fadeInUp " data-wow-duration="1s" data-wow-delay=".2s">
                         Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum

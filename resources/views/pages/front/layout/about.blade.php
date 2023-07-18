@@ -1,6 +1,6 @@
 <div class="container about" id="about">
                  <div class="col-md-8 offset-md-2">
-                     <h2 class="about-title   wow fadeInDown " data-wow-duration="1s" data-wow-delay=".2s">About <span class="red">US</span></h2>
+                     <h2 class="about-title   wow fadeInDown " data-wow-duration="1s" data-wow-delay=".2s">WHO WE <span class="red">ARE</span></h2>
                      <p class="about-desc"><span>We create </span>awesome stuff</p>
                      <p class="about-text  wow fadeInUp " data-wow-duration="1s" data-wow-delay=".2s">
                      We understand the unique challenges faced by SMBs, and our mission is to empower them with effective business and marketing solutions tailored to their specific needs. We believe that every SMB deserves access to high-quality and affordable services that can elevate their brand, expand their reach, and drive sustainable growth

@@ -81,11 +81,10 @@
 
         <div class="kernal_info slide-2 slide hide">
             <div>
-                <div>
-                    <img src="{{URL::asset('assets/front/image/construction.png')}}" />
-                </div>
-                <div class="title wow fadeInDown " data-wow-duration="1s" data-wow-delay=".2s">TESMA</div>
-                <div class="slide-button">
+                
+                <div class="title wow fadeInDown " data-wow-duration="1s" data-wow-delay=".2s"><img src="{{URL::asset('assets/front/image/5.png')}}"  class='icon' /></div>
+               
+                <div class="slide-button wow fadeInUp buttons">
                     <a href="#" class="active">GET STARTED</a>
                     <a href="#">CONTACT US</a>
                 </div>
