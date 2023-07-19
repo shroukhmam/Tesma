@@ -16,12 +16,12 @@
                <li class="nav-item" data-class=".servicet">
                     <a class="nav-link" href="#servicet">SERVICES</a>
                </li>
-               <li class="nav-item" data-class=".works">
+               <!-- <li class="nav-item" data-class=".works">
                     <a class="nav-link" href="#works">OURWORKS</a>
                </li>
                <li class="nav-item" data-class=".skills">
                     <a class="nav-link" href="#skills">SKILLS</a>
-               </li>
+               </li> -->
                <li class="nav-item" data-class=".contact">
                     <a class="nav-link" href="#contact">CONTACT</a>
                </li>
