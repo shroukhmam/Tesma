@@ -47,7 +47,7 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>React App</title>
+    <title>TESMA</title>
 </head>
 
 <body>
@@ -59,7 +59,7 @@
          @include('pages.front.layout.about')
          @include('pages.front.layout.service')
          @include('pages.front.layout.contact')
-
+         @include('pages.front.layout.footer')
        
     </div>
 

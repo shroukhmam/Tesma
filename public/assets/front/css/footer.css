@@ -45,12 +45,12 @@
     font-family: FontAwesome;
     content: "\f192";
     font-size: 11px;
-    color: #c69c6d;
+    color: #0f4787;
     transform: translateY(-4px);
     margin-right: 10px;
 }
 .footer ul.footer-list li:hover{
-    color: #c69c6d;
+    color: #0f4787;
 }
 
 
@@ -83,12 +83,12 @@
     border-radius: 4px;
     text-align: center;
     line-height: 32px;
-    background-color: #c69c6d;
+    background-color: #0f4787;
     color: white;
     transform:rotate(-45deg);
 }
 .footer ul li a:hover{
-    background-color: #504645;
+    background-color: #D92133;
 }
 .footer ul li i {
     transform: rotate(45deg);
@@ -105,5 +105,5 @@
     font-weight: 500;
 }
 .copyright span{
-    color: #c69c6d;
+    color: #0f4787;
 }
