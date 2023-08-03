@@ -3,7 +3,7 @@
     margin-top: 80px;
 }
 .about-title{
-    color: #0f4787 ;
+    color: #1C3E7C ;
     font-size: 45px;
     text-transform: uppercase;
     margin-top: 0;
@@ -12,10 +12,10 @@
     font-weight: bold;
 }
 .about span{
-    color: #0f4787;
+    color: #1C3E7C;
 }
 .about span.red{
-    color: #D92133;
+    color: #E62A32;
 }
 .about-desc{
     color:#424242;

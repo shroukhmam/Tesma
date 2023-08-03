@@ -29,7 +29,7 @@
     z-index: 999;
 }
 .service-title{
-    color: #0f4787;
+    color: #1C3E7C;
     font-size: 45px;
     text-transform: uppercase;
     margin-top: 0;
@@ -44,7 +44,7 @@
     display: block;
     width: 50px;
     height: 2px;
-    background-color: #D92133;
+    background-color: #E62A32;
     margin:20px auto;
 }
 .service-text{
@@ -88,7 +88,7 @@ color: #eee;
 }
 
 .brand{
-    background-color:#0f4787;
+    background-color:#1C3E7C;
     color: white;
     padding: 5px;
     width: 90%!important;
@@ -175,7 +175,7 @@ color: #eee;
     font-weight: bold;
 }
 .servicet span{
-    color: #D92133;
+    color: #E62A32;
 }
 .servicet .heading-title{
     font-size: 14px;
@@ -190,7 +190,7 @@ color: #eee;
     font-size: 14px;
     color: black;
     margin-bottom: 0;
-    font-family:  sans-serif;
+    /* font-family:  sans-serif; */
     margin-bottom: 50px;
 }
 
@@ -281,7 +281,7 @@ color: #eee;
 .servicethree p{
     font-weight: 100;
     line-height: 1.6;
-    font-family: sans-serif;
+    
     font-size: 18px;
     color: #eee !important;
 }
@@ -315,7 +315,7 @@ color: #eee;
     height: 2px;
     display: block;
     margin-bottom: 10px;
-    background-color: #D92133;
+    background-color: #E62A32;
     margin-left: 0;
 }
 .servicethree .icons {

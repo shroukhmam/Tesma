@@ -1,4 +1,7 @@
 /*navbar*/
+body{
+    font-family: 'Montserrat', sans-serif  !important;
+}
 .navbar{
     background-color: #fff;
     font-family: "Poppins", sans-serif;
@@ -25,7 +28,7 @@
     margin: 5px;
 }
 .navbar ul li a:hover,.navbar ul li.active a{
-    color: #0f4787 !important;
+    color: #1C3E7C !important;
 }
 .navbar-toggler:focus{
      outline: none;

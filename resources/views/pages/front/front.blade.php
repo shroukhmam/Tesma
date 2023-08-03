@@ -37,6 +37,9 @@
      <link href="{{URL::asset('assets/front/css/downloadTop.css')}}" rel="stylesheet" />
      <link href="{{URL::asset('assets/front/css/servicePage.css')}}" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <!--
       Notice the use of %PUBLIC_URL% in the tags above.
@@ -47,12 +50,14 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>TESMA</title>
+    <title> TESMA</title>
+    <link rel="icon" type="images/x-icon" href="{{URL::asset('assets/front/image/7.png')}}" />
+
 </head>
 
-<body>
-   
+
     <div id="root">
+      
          @include('pages.front.layout.navbar')
          @include('pages.front.layout.slider')
 

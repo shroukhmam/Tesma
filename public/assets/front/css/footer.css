@@ -2,7 +2,7 @@
     padding-top: 80px;
     background-color: #212124;
     color: white;
-    font-family: sans-serif;
+    
     
 }
 @media(max-width:768px){
@@ -45,12 +45,12 @@
     font-family: FontAwesome;
     content: "\f192";
     font-size: 11px;
-    color: #0f4787;
+    color: #1C3E7C;
     transform: translateY(-4px);
     margin-right: 10px;
 }
 .footer ul.footer-list li:hover{
-    color: #0f4787;
+    color: #1C3E7C;
 }
 
 
@@ -83,12 +83,12 @@
     border-radius: 4px;
     text-align: center;
     line-height: 32px;
-    background-color: #0f4787;
+    background-color: #1C3E7C;
     color: white;
     transform:rotate(-45deg);
 }
 .footer ul li a:hover{
-    background-color: #D92133;
+    background-color: #E62A32;
 }
 .footer ul li i {
     transform: rotate(45deg);
@@ -101,9 +101,9 @@
     color: #fff;
     font-size: 13px;
     line-height: 26px;
-    font-family: sans-serif;
+    
     font-weight: 500;
 }
 .copyright span{
-    color: #0f4787;
+    color: #1C3E7C;
 }

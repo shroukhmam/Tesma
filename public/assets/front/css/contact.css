@@ -10,7 +10,7 @@
     padding-right: 20px;
     color:white;
     text-align: center;
-    font-family: sans-serif;
+    
   
 }
 
@@ -22,7 +22,7 @@
 .contact h2{
     font-size: 27px;
     letter-spacing: 1px;
-    color: #0f4787;
+    color: #1C3E7C;
     font-weight: 500;
     text-transform: uppercase;
 }
@@ -57,10 +57,10 @@
 }
 
 .contact span,.contact p>i{
-    color: #0f4787;
+    color: #1C3E7C;
 }
 .contact span.red{
-    color: #D92133;
+    color: #E62A32;
 }
 .contact p>i{
     display: inline-block;
@@ -79,7 +79,7 @@
     width: 50px;
     height: 2px;
     margin: 10px auto;
-    background-color: #D92133;
+    background-color: #E62A32;
 }
 
 .contact ul{
@@ -106,18 +106,18 @@
     border-radius: 4px;
     text-align: center;
     line-height: 32px;
-    background-color: #0f4787;
+    background-color: #1C3E7C;
     color: white;
     transform:rotate(-45deg);
 }
 .contact ul li a:hover{
-    background-color: #D92133;
+    background-color: #E62A32;
 }
 .contact ul li i {
     transform: rotate(45deg);
 }
 .contact input,.contact textarea{
-    background-color: #0f4787;
+    background-color: #1C3E7C;
     border: none;
     border-radius: 3px;
     border-bottom: 2px solid rgba(96, 96, 96, 0.7);
@@ -132,22 +132,22 @@
 }
 .contact input:hover,.contact textarea:hover{
     outline: none;
-    border-bottom: 2px solid #D92133;
+    border-bottom: 2px solid #E62A32;
     background-color: #fff;
-    color: #0f4787;
+    color: #1C3E7C;
 }
 .contact input:focus,.contact textarea:focus{
     outline: none;
     box-shadow: none;
-    border-bottom: 2px solid #0f4787;
+    border-bottom: 2px solid #1C3E7C;
     background-color: #fff;
-    color: #0f4787;
+    color: #1C3E7C;
 }
 .contact input[type="submit"]{
     float: right;
     background-color: #fff;
     color: #555;
-    border: 2px solid #0f4787;
+    border: 2px solid #1C3E7C;
     font-weight: 600;
     padding-top: 13px;
     padding-bottom: 13px;
@@ -159,7 +159,7 @@
     
 }
 .contact input[type="submit"]:hover{
-    background-color: #0f4787;
+    background-color: #1C3E7C;
     color: #fff;
     border-color: #fff;
 }
