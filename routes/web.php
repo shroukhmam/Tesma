@@ -28,7 +28,13 @@ Route::middleware('auth:web')->group(function () {
 });
 Route::get('/front', function () {
     return view('pages.front.front');
-});
+})->name('front.front');
+Route::get('/front/marketing', function () {
+    return view('pages.front.marketing');
+})->name('front.marketing');
+Route::get('/front/business', function () {
+    return view('pages.front.business');
+})->name('front.business');
 Route::middleware('auth')->group(function () {
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');

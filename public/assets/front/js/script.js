@@ -197,7 +197,16 @@ $(".big-circle").mouseleave(function(){
  
 
 
-
+$('.drop').on('click',function(){
+ $('.dropmenu').toggle();
+})
+$('.langs a').on('click',function(){
+    $('.langs a').removeClass('active');
+    $('.langinfo').removeClass('active');
+    $(this).addClass('active');
+    $('.'+$(this).data('value')).addClass('active');
+    //alert($(this).data('value'));
+})
 
 
 

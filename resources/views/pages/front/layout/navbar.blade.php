@@ -8,14 +8,20 @@
        <div class="collapse navbar-collapse" id="navbarSupportedContent">
          <ul class="navbar-nav ml-auto">
                  <li class="nav-item active li" data-class=".home">
-                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="{{route('front.front')}}">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item" data-class=".about">
-                    <a class="nav-link" href="#about">ABOUT</a>
+                    <a class="nav-link" href="{{route('front.front')}}#about">ABOUT</a>
                </li>
                <li class="nav-item" data-class=".servicet">
-                    <a class="nav-link" href="#servicet">SERVICES</a>
+                    <a class="nav-link drop" href="{{route('front.front')}}">SERVICES</a>
+                    <div class="dropmenu">
+                      <a class="nav-link" href="{{route('front.marketing')}}">marketing</a>
+                      <hr>
+                      <a class="nav-link" href="{{route('front.business')}}">Business Digitization & Integrations</a> 
+                    </div>
                </li>
+               
                <!-- <li class="nav-item" data-class=".works">
                     <a class="nav-link" href="#works">OURWORKS</a>
                </li>
