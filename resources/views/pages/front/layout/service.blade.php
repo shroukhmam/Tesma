@@ -13,23 +13,34 @@
                  <div class="responsive">
                      <div class="brand">
                          <img src="{{URL::asset('assets/front/image/chart-pie-solid.svg')}}" width="50px" height="50px"/>
-                         <h3>branding</h3>
-                         <p>Claritas est etiam processus dynamicus, qui sequitur</p>
+                         <h3>Strategic Marketing Planning</h3>
+                         <p> At TESMA, we begin by crafting comprehensive marketing plans that encompass in-depth market analysis, target audience identification, and strategic campaign recommendations</p>
                      </div>
                      <div class="brand">
                          <img src="{{URL::asset('assets/front/image/tint-solid.svg')}}" width="50px" height="50px"/>
-                         <h3>Web desine</h3>
-                         <p>Claritas est etiam processus dynamicus, qui sequitur</p>
+                         <h3>Campaign Management</h3>
+                         <p> Leave the complexities of marketing campaigns to us. Our team of experts skillfully manages every aspect of your marketing initiatives across diverse channels</p>
                      </div>
                      <div class="brand">
                          <img src="{{URL::asset('assets/front/image/clock-regular.svg')}}" width="50px" height="50px"/>
-                         <h3>Graphic design</h3>
-                         <p>Claritas est etiam processus dynamicus, qui sequitur</p>
+                         <h3>Digital Presence </h3>
+                         <p> Embrace the power of digital channels with our comprehensive Digital Presence & Social Media service Our team takes charge of all aspects, including content creation, scheduling, and fostering around your brand</p>
                      </div>
                      <div class="brand">
                          <img src="{{URL::asset('assets/front/image/map-regular.svg')}}" width="50px" height="50px"/>
-                         <h3>Develpment</h3>
-                         <p>Claritas est etiam processus dynamicus, qui sequitur</p>
+                         <h3>Process Optimization</h3>
+                         <p> At TESMA, we delve into your existing business processes to uncover inefficiencies and bottlenecks hindering your productivity. Through meticulous analysis, we identify opportunities for improvement and design tailored solutions to optimize your workflow</p>
+                     </div>
+
+                     <div class="brand">
+                         <img src="{{URL::asset('assets/front/image/chart-pie-solid.svg')}}" width="50px" height="50px"/>
+                         <h3>Business Integrations</h3>
+                         <p> Seamlessly integrating essential business tools and systems is the backbone of TESMA's Business Integration service.By facilitating smooth data flow and communication between various components of your business, we eliminate redundancy and inefficiencies. </p>
+                     </div>
+                     <div class="brand">
+                         <img src="{{URL::asset('assets/front/image/tint-solid.svg')}}" width="50px" height="50px"/>
+                         <h3>Technology Implementation</h3>
+                         <p> Embracing cutting-edge technologies is crucial for gaining a competitive edge in today's rapidly evolving business landscape. TESMA empowers your business to harness technology effectively with our expert Technology Implementation service.</p>
                      </div>
                  </div>
 <!--                  

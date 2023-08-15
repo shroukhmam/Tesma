@@ -14,7 +14,7 @@
                     <a class="nav-link" href="{{route('front.front')}}#about">ABOUT</a>
                </li>
                <li class="nav-item" data-class=".servicet">
-                    <a class="nav-link drop" href="{{route('front.front')}}">SERVICES</a>
+                    <a class="nav-link drop" href="#">SERVICES</a>
                     <div class="dropmenu">
                       <a class="nav-link" href="{{route('front.marketing')}}">marketing</a>
                       <hr>

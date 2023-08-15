@@ -96,6 +96,7 @@ color: #eee;
     margin-top: 30px;
     transition: all .2s ease;
     padding-top: 30px;
+    min-height: 380px;
 
 }
 .brand:hover{

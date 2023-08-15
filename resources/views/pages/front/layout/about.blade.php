@@ -2,9 +2,7 @@
                  <div class="col-md-8 offset-md-2">
                      <h2 class="about-title   wow fadeInDown " data-wow-duration="1s" data-wow-delay=".2s">WHO WE <span class="red">ARE</span></h2>
                      <p class="about-desc"><span>We create </span>awesome stuff</p>
-                     <p class="about-text  wow fadeInUp " data-wow-duration="1s" data-wow-delay=".2s">
-                     We understand the unique challenges faced by SMBs, and our mission is to empower them with effective business and marketing solutions tailored to their specific needs. We believe that every SMB deserves access to high-quality and affordable services that can elevate their brand, expand their reach, and drive sustainable growth
-                     </p>   
+                     <p class="about-text  wow fadeInUp " data-wow-duration="1s" data-wow-delay=".2s">we are a passionate team of experts in dynamic and innovative marketing and business solutions. We are committed to helping small and medium-sized businesses thrive in today's competitive market by guiding their journey to prosperity. We create a road map to success and open up new opportunities for our clients. As your trusted partners, we meet challenges together and achieve significant growth. We make a lasting impact on our clients' industries. </p>   
                  </div>
                 
                  <div class="row ">
