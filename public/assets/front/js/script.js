@@ -197,9 +197,14 @@ $(".big-circle").mouseleave(function(){
  
 
 
-$('.drop').on('click',function(){
- $('.dropmenu').toggle();
-})
+
+$('.drop,.dropmenu').mouseenter(function() {
+    $('.dropmenu').show();  
+}).mouseleave(function() {      
+    if(!$('.dropmenu').hasClass('active')){
+        $('.dropmenu').hide();
+    }
+});
 $('.langs a').on('click',function(){
     $('.langs a').removeClass('active');
     $('.langinfo').removeClass('active');

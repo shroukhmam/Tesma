@@ -177,6 +177,12 @@
 .dropmenu{
     position: absolute;
     background: white;
+    background-color: #f9f9f9;
+    width: 250px;
     padding: 14px;
-    display: none;
+    margin-top: -5px;
+    border-top: 3px solid #1C3E7C;
+}
+.dropmenu a:hover{
+    background-color: white;
 }
