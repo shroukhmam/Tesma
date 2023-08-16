@@ -17,22 +17,22 @@
                               <a data-value="Management" >Campaign Management</a>
                               
                           </div>
-                          <div class="langinfo zindex Marketing active">
+                          <div class="langinfo zindex Marketing active mt-3">
                               <p><strong>Strategic Marketing Planning:</strong> At TESMA, we begin by crafting comprehensive marketing plans that encompass in-depth market analysis, target audience identification, and strategic campaign recommendations. These well-defined strategies ensure your marketing efforts are aligned with your business goals, driving exceptional results and propelling your brand forward.</p>
                           </div>
-                          <div class="langinfo zindex Media">
+                          <div class="langinfo zindex Media mt-3">
                               <p><strong>  Media Creation and Editing: </strong> Embrace the power of captivating multimedia. Our media experts excel in creating compelling videos, animations, and interactive content that engage your audience. Additionally, we provide precise editing services to enhance your existing media, ensuring it aligns with your brand's message and resonates with your customers</p>
                           </div>
-                          <div class="langinfo zindex Social">
+                          <div class="langinfo zindex Social mt-3">
                               <p><strong>  Digital Presence & social media: </strong> Embrace the power of digital channels with our comprehensive Digital Presence & Social Media service. Our team takes charge of all aspects, including content creation, scheduling, and fostering a thriving community around your brand. By crafting captivating content and nurturing connections with your audience, we elevate your brand's presence, strengthen customer relationships, and drive meaningful engagement.</p>
                           </div>
-                          <div class="langinfo zindex Website">
+                          <div class="langinfo zindex Website mt-3">
                               <p><strong> Website Creation: </strong>  Stand out in the digital realm with captivating and user friendly websites. Our skilled web developers create custom-designed websites that reflect your brand's identity and deliver seamless user experiences. Whether you need a sleek corporate website or an e-commerce platform, we bring your online vision to life</p>
                           </div>
-                          <div class="langinfo zindex Graphic">
+                          <div class="langinfo zindex Graphic mt-3">
                               <p><strong> Creative Graphic Designs:  </strong> Make a lasting impression with visually stunning graphics. Our creative designers craft captivating visuals, including logos, branding materials, and marketing collaterals, that resonate with your target audience and elevate your brand's visual identity.</p>
                           </div>
-                          <div class="langinfo zindex Management">
+                          <div class="langinfo zindex Management mt-3">
                               <p><strong> End-to-End Campaign Management: </strong> Leave the complexities of marketing campaigns to us. Our team of experts skillfully manages every aspect of your marketing initiatives across diverse channels. From concept to execution, we handle it all, ensuring seamless coordination and continuous monitoring for optimal performance. By finetuning campaigns and optimizing for success, we deliver measurable and impactful outcomes, maximizing your return on investment.</p>
                           </div>
                       </div>
