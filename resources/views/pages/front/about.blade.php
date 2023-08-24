@@ -61,8 +61,8 @@
          @include('pages.front.layout.navbar')
          @include('pages.front.layout.slider')
 
-         @include('pages.front.layout.skill')
-
+         @include('pages.front.layout.about1')
+        
          @include('pages.front.layout.footer')
        
     </div>

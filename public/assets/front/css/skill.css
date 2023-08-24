@@ -182,7 +182,21 @@
     padding: 14px;
     margin-top: -5px;
     border-top: 3px solid #1C3E7C;
+    display: none;
 }
 .dropmenu a:hover{
+    background-color: white;
+}
+.dropmenuabout{
+    position: absolute;
+    background: white;
+    background-color: #f9f9f9;
+    width: 150px;
+    padding: 14px;
+    margin-top: -5px;
+    border-top: 3px solid #1C3E7C;
+    display: none;
+}
+.dropmenuabout a:hover{
     background-color: white;
 }

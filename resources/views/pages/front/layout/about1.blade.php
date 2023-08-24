@@ -1,6 +1,31 @@
 <div class="skill">
                <div class="overlay"></div>
                   <div class="skill-desc col-lg-8 offset-lg-2 text-center">
+                      <h2 class=" wow fadeInDown " data-wow-duration="1s" data-wow-delay=".2s"><span>WHO WE <span style=" color: #E62A32">ARE</span></span></h2>
+                      
+                      <p class=" wow fadeInUp " data-wow-duration="1s" data-wow-delay=".2s">we are a passionate team of experts in dynamic and innovative marketing and business solutions. We are committed to helping small and medium-sized businesses thrive in today's competitive market by guiding their journey to prosperity. We create a road map to success and open up new opportunities for our clients. As your trusted partners, we meet challenges together and achieve significant growth. We make a lasting impact on our clients' industries. </p>
+                  </div>
+                  <div class="col-lg-8 offset-lg-2">
+                  <div class="row">
+                      <div class="col-md-8 offset-md-2">
+                          <h5><i style="border-color:#fff;border-width:3px;background-color:#1C3E7C;box-sizing:content-box;height:42px;width:42px;line-height:42px;border-radius:50%;border-radius:50%;position:relative;top:auto;left:auto;margin:0;font-size:21px;color: white;text-align: center;" aria-hidden="true" class="fa fa-edit"> </i><span style="font-weight: bold;" > web <span>development</span></span></h5>
+                          <p style="margin-left: 50px;margin-bottom: 25px;">At TESMA, we begin by crafting comprehensive marketing plans that encompass in-depth market analysis, target audience identification,and strategic campaign recommendations. These well-defined strategies ensure your marketing efforts are aligned with your business goals, driving exceptional results and propelling your brand forward </p>
+                      </div>
+                      <div class="col-md-8 offset-md-2">
+                          <h5><i style="border-color:#fff;border-width:3px;background-color:#1C3E7C;box-sizing:content-box;height:42px;width:42px;line-height:42px;border-radius:50%;border-radius:50%;position:relative;top:auto;left:auto;margin:0;font-size:21px;color: white;text-align: center;" aria-hidden="true" class="fa fa-eye"> </i><span style="font-weight: bold;" > context advertising</span></h5>
+                          <p style="margin-left: 50px;margin-bottom: 25px;"> Leave the complexities of marketing campaigns to us. Our team of experts skillfully manages every aspect of your marketing initiatives across diverse channels. From concept to execution, we handle it all, ensuring seamless coordination and continuous monitoring for optimal performance. By fine tuning campaigns and optimizing for success, we deliver measurable and impactful outcomes, maximizing your return on investment</p>
+                      </div>
+                      <div class="col-md-8 offset-md-2">
+                          <h5><i style="border-color:#fff;border-width:3px;background-color:#1C3E7C;box-sizing:content-box;height:42px;width:42px;line-height:42px;border-radius:50%;border-radius:50%;position:relative;top:auto;left:auto;margin:0;font-size:21px;color: white;text-align: center;" aria-hidden="true" class="fa fa-check"> </i><span style="font-weight: bold;" > Digital Presence & social media</span></h5>
+                          <p style="margin-left: 50px;margin-bottom: 25px;">  Embrace the power of digital channels with our comprehensive Digital Presence & Social Media service. Our team takes charge of all aspects, including content creation, scheduling, and fostering a thriving community around your brand. By crafting captivating content and nurturing connections with your audience, we elevate your brand's presence, strengthen customer relationships, and drive meaningful engagement.</p>
+                      </div>
+                    
+                  </div>
+                  </div>
+           </div> 
+      <!-- <div class="skill">
+               <div class="overlay"></div>
+                  <div class="skill-desc col-lg-8 offset-lg-2 text-center">
                       <h2 class=" wow fadeInDown " data-wow-duration="1s" data-wow-delay=".2s"><span>Marketing</span></h2>
                       
                       <p class=" wow fadeInUp " data-wow-duration="1s" data-wow-delay=".2s">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</p>
@@ -33,4 +58,4 @@
                       </div>
                   </div>
                   </div>
-           </div> 
+           </div>  -->

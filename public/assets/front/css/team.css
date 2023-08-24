@@ -55,7 +55,7 @@
     font-size: 16px;
     font-weight: 300;
     line-height: 1.6;
-    color: #c69c6d;
+    color: #1C3E7C;
     
 }
 
@@ -135,12 +135,12 @@
     border-radius: 4px;
     text-align: center;
     line-height: 32px;
-    background-color: #c69c6d;
+    background-color: #1C3E7C;
     color: white;
     transform:rotate(-45deg);
 }
 .team ul li a:hover{
-    background-color: #504645;
+    background-color: #E62A32;
 }
 .team ul li i {
     transform: rotate(45deg);
@@ -151,7 +151,7 @@
     opacity: .6;
  }
  .team .image:hover{
-     border: 3px solid rgb(198, 156, 109,.6);
+     border: 3px solid rgb(28,62, 124,1);
  }
 
 
@@ -214,14 +214,14 @@
 }
 
 .teamtwo span{
-    color: #c69c6d;
+    color: #1C3E7C;
 }
 .teamtwo .line{
     display: block;
     width: 50px;
     height: 2px;
     margin: 10px auto;
-    background-color: #c69c6d;
+    background-color: #1C3E7C;
 }
 .teamtwo .circle-image{
     width: 120px;
@@ -235,7 +235,7 @@
     border: 4px solid #544a49;  
 }
 .teamtwo .team-item:hover .circle-image{
-    border: 4px solid #c69c6d; 
+    border: 4px solid #1C3E7C; 
 }
 .teamtwo .team-item:hover{
     transform: translateY(-2%);
@@ -256,7 +256,7 @@
 .slick-theme{
     padding-top: 50px;
     padding-bottom: 50px;
-    background-color: #c69c6d;
+    background-color: #1C3E7C;
 }
 
 

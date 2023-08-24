@@ -11,7 +11,12 @@
                     <a class="nav-link" href="{{route('front.front')}}">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item" data-class=".about">
-                    <a class="nav-link" href="{{route('front.front')}}#about">ABOUT</a>
+                    <a class="nav-link dropabout" href="#">ABOUT</a>
+                    <div class="dropmenuabout">
+                      <a class="nav-link" href="{{route('front.about')}}">About</a>
+                      <hr>
+                      <a class="nav-link" href="{{route('front.team')}}">Team</a> 
+                    </div>
                </li>
                <li class="nav-item" data-class=".servicet">
                     <a class="nav-link drop" href="#">SERVICES <i class="fa fa-caret-down"></i></a>
