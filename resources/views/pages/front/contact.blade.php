@@ -93,11 +93,11 @@
                 <div class="col-md-6">
                     <form>
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-12">
                                 <input type="text" required="" name="Name" placeholder=" Your name"
                                     class="form-control"></input>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-md-12">
                                 <input type="email" name="email" placeholder="Your email" class="form-control" />
                             </div>
                             <div class="col-md-12">
