@@ -34,7 +34,7 @@
                     <a class="nav-link" href="#skills">SKILLS</a>
                </li> -->
                <li class="nav-item" data-class=".contact">
-                    <a class="nav-link" href="#contact">CONTACT</a>
+                    <a class="nav-link" href="{{route('front.contact')}}">CONTACT</a>
                </li>
          </ul>
        </div>

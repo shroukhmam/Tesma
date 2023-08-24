@@ -13,12 +13,33 @@
     
   
 }
-
 .contact .overlay{
     background-color: rgba(0,0, 0,0.8);
     z-index: 0 !important;
 
 }
+.contacts{
+    position: relative;
+    background-image: url("../image/bg1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color:white;
+    text-align: center;
+    
+  
+}
+.contacts .overlay{
+    background-color: rgba(250, 250, 250,0.7);
+    z-index: 0 !important;
+
+}
+
+
 .contact h2{
     font-size: 27px;
     letter-spacing: 1px;
@@ -162,6 +183,12 @@
     background-color: #1C3E7C;
     color: #fff;
     border-color: #fff;
+}
+.contacts p{
+    color: #606060;
+}
+.contacts a{
+    color: #606060;
 }
 
 

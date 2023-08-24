@@ -41,6 +41,9 @@ Route::get('/front/team', function () {
 Route::get('/front/about', function () {
     return view('pages.front.about');
 })->name('front.about');
+Route::get('/front/contact', function () {
+    return view('pages.front.contact');
+})->name('front.contact');
 Route::middleware('auth')->group(function () {
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
