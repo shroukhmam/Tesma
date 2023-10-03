@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg fixed-top home">
-                 <a class="navbar-brand" href="#"><img style="width: 200px;margin-left: 50px;" src="{{URL::asset('assets/front/image/2.png')}}" /></a>
+                 <a class="navbar-brand" href="#"><img style="width: 150px;margin-left: 50px;" src="{{URL::asset('assets/front/image/logo1.png')}}" /></a>
                   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-awesome fa fa-bars"></span>
                         <span class="navbar-toggler-awesome fa fa-times hide"></span>

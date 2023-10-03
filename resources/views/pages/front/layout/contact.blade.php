@@ -10,7 +10,7 @@
                      <div class="col-md-8 offset-md-2 ">
                           <div class="row">
                               <div class="col-md-6 information">
-                                  <p class="text-wrap"><i class="fa fa-phone"></i>+1 (845)520-0616</p>
+                                  <p class="text-wrap"><i class="fa fa-phone"></i>(845) 372-4859</p>
                                   <div class="address">
                                      <p> 1131 State Rt 55, Lagrangeville, NY, 12540</p>
                                   </div>
@@ -18,7 +18,7 @@
                                       <p><i class="fa fa-envelope"></i><a href="contact@tesmaus.com">contact@tesmaus.com</a></p>
                                   </div>
                                   <ul>
-                                      <li><a href="https://www.facebook.com/tesmaus"><i class="fa fa-facebook"></i></a></li>
+                                      <li><a href="https://www.facebook.com/profile.php?id=61550786806983&mibextid=ZbWKwL"><i class="fa fa-facebook"></i></a></li>
                                       <li><a href="#"><i class="fa fa-skype"></i></a></li>
                                   </ul>
                                   

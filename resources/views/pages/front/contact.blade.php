@@ -74,7 +74,7 @@
             <div class="row">
                 <div class="col-md-6 information" style="text-align: left !important;">
                     <div class="heading heading-with-icon icon-left d-flex"><div class="icon" style="width:auto;"><i style="border-color:#333; text-align:center;border-width:1px;background-color:#E62A32;box-sizing:content-box;height:42px;width:42px;line-height:42px;border-radius:50%;font-size:21px;" aria-hidden="true" class="fontawesome-icon fa fa-phone-square circle-yes"></i></div><h2 class="content-box-heading fusion-responsive-typography-calculated" style="--h2_typography-font-size: 18px; line-height: 1.1; --fontSize: 18; --minFontSize: 18;padding: 7px;" data-fontsize="18" data-lineheight="19.8px">Phone</h2></div>
-                    <p class="text-wrap">+1 (845)520-0616</p>
+                    <p class="text-wrap">(845) 372-4859</p>
                     <br>
                     <div class="heading heading-with-icon icon-left d-flex"><div class="icon" style="width:auto;"><i style="border-color:#333; text-align:center;border-width:1px;background-color:#E62A32;box-sizing:content-box;height:42px;width:42px;line-height:42px;border-radius:50%;font-size:21px;" aria-hidden="true" class="fontawesome-icon fa fa-map-marker circle-yes"></i></div><h2 class="content-box-heading fusion-responsive-typography-calculated" style="--h2_typography-font-size: 18px; line-height: 1.1; --fontSize: 18; --minFontSize: 18;padding: 7px;" data-fontsize="18" data-lineheight="19.8px">Brookfield ADDRESS</h2></div>
                     <p> 1131 State Rt 55, Lagrangeville, NY, 12540</p>
@@ -83,7 +83,7 @@
                     <p><a href="contact@tesmaus.com">contact@tesmaus.com</a></p>
                
                     <ul>
-                        <li><a href="https://www.facebook.com/tesmaus"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://www.facebook.com/profile.php?id=61550786806983&mibextid=ZbWKwL"><i class="fa fa-facebook"></i></a></li>
                         <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                     
                     </ul>

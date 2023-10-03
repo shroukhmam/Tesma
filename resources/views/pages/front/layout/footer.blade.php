@@ -7,7 +7,7 @@
                             </div>
                             <p>Let TESMA lead you to success, step by step as there is a unique and exceptional journey that awaits you.</p>
                             <ul class="icon-list">
-                                     <li><a href="https://www.facebook.com/tesmaus"><i class="fa fa-facebook"></i></a></li>
+                                     <li><a href="https://www.facebook.com/profile.php?id=61550786806983&mibextid=ZbWKwL"><i class="fa fa-facebook"></i></a></li>
                                       <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                             </ul>
                        </div>
@@ -36,7 +36,7 @@
                              <p>
                              1131 State Rt 55, Lagrangeville, NY, 12540<br/>
                                contact@tesmaus.com<br/>
-                               +1 (845)520-0616<br/>
+                               (845) 372-4859<br/>
 
                              </p>
                         </div>

@@ -29,7 +29,7 @@ In today's rapidly evolving business landscape, gaining a competitive edge deman
                       </div>
                       <div class="col-md-6">
 
-                            <img src="{{URL::asset('assets/front/image/8.png')}}" alt="" class="marketing">
+                            <img src="{{URL::asset('assets/front/image/Business Digitization & IntegrationsPNG4.png')}}" alt="" class="marketing">
                              <!-- <div class="progres">
                                  <div class="color1 gray">Jquery</div>
                                  <div class="color2 black" data-precent="40"></div>

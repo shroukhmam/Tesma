@@ -11,7 +11,7 @@
             <div class="col-md-6">
                 <div class="langs">
                     <a class="active" data-value="Marketing">Marketing Planning</a>
-                    <a data-value="Media">Digital Presence & social media</a>
+                    <a data-value="Media">social media</a>
                     <a data-value="Management">End-to-End Campaign Management</a>
 
                 </div>
@@ -29,7 +29,7 @@
             </div>
             <div class="col-md-6">
 
-                <img src="{{URL::asset('assets/front/image/Strategic MarketingPNG4.png')}}" alt="" class="marketing">
+                <img src="{{URL::asset('assets/front/image/PackagesPNG4.png')}}" alt="" class="marketing">
                 <!-- <div class="progres">
                                  <div class="color1 gray">Jquery</div>
                                  <div class="color2 black" data-precent="40"></div>
