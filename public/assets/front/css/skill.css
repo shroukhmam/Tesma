@@ -2,7 +2,7 @@
 
 .skill{
     position: relative;
-    background-image: url("../image/bg3.jpg");
+    background-image: url("../image/Asset2PNG4.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -49,7 +49,7 @@
 
 }
 .skill p{
-    color: #585858;;
+    color: #606060;;
     font-size: 14px;
     font-weight: 300;
     font-family: 'Montserrat', sans-serif  !important;
@@ -171,32 +171,43 @@
     }
 }
 .marketing{
-    width: 80%;
+    width: 60%;
+    margin-top: 40px;
+    margin-left: 100px;
    
 }
 .dropmenu{
     position: absolute;
     background: white;
-    background-color: #f9f9f9;
+    background-color: #1C3E7C;
     width: 250px;
     padding: 14px;
     margin-top: -5px;
-    border-top: 3px solid #1C3E7C;
+    border-top: 3px solid #E62A32;
     display: none;
 }
 .dropmenu a:hover{
     background-color: white;
+    color: #1C3E7C !important;
 }
+.dropmenu a{
+    color: white !important;
+}
+
 .dropmenuabout{
     position: absolute;
     background: white;
-    background-color: #f9f9f9;
+    background-color: #1C3E7C;
     width: 150px;
     padding: 14px;
     margin-top: -5px;
-    border-top: 3px solid #1C3E7C;
+    border-top: 3px solid #E62A32;
     display: none;
+}
+.dropmenuabout a{
+    color: white !important;
 }
 .dropmenuabout a:hover{
     background-color: white;
+    color: #1C3E7C !important;
 }

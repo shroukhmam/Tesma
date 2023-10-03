@@ -1,5 +1,5 @@
 .service,.servicet{
-    background-image: url(../image/bg2.jpg);
+    background-image: url(../image/Asset2PNG4.png);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -96,7 +96,8 @@ color: #eee;
     margin-top: 30px;
     transition: all .2s ease;
     padding-top: 30px;
-    min-height: 380px;
+    min-height: 450px;
+    border-radius: 50px;
 
 }
 .brand:hover{
@@ -124,10 +125,14 @@ color: #eee;
     margin-bottom: 10px;
 }
 .brand p{
-    color: #c5c5c5;
+    color: #fff !important;
     font-size: 13px;
     line-height: 25px;
     letter-spacing: 0.9px;
+}
+.brand h3{
+    color: black !important;
+    padding: 15px;
 }
 .service .col-md-6{
     z-index: 999;

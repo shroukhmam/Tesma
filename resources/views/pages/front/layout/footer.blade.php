@@ -5,11 +5,9 @@
                             <div class="logo">
                             <!-- <img src="{{URL::asset('assets/front/image/5.png')}}" style="width: 50PX;"  class='icon' /> -->
                             </div>
-                            <p>We are a creative agency with a passion for design & developing beautiful creations.</p>
+                            <p>Let TESMA lead you to success, step by step as there is a unique and exceptional journey that awaits you.</p>
                             <ul class="icon-list">
-                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                      <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                     <li><a href="https://www.facebook.com/tesmaus"><i class="fa fa-facebook"></i></a></li>
                                       <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                             </ul>
                        </div>
@@ -26,21 +24,20 @@
                         <div class="col-md-4 mb">
                         <h5 class="heading-text">Pages</h5>
                              <ul class="footer-list">
-                                 <li>About page</li>
-                                 <li>Blog page</li>
-                                 <li>Price page</li>
-                                 <li>Portfolio page</li>
-                                 <li>Portfolio single</li>
+                                 <li><a href="{{route('front.about')}}" class="links">About page</a></li>
+                                 <li><a href="{{route('front.team')}}" class="links">Team page</a></li>
+                                 <li><a href="{{route('front.marketing')}}" class="links">Marketing page</a></li>
+                                 <li><a href="{{route('front.business')}}" class="links">Business Digitization & Integrations</a></li>
+                                 <li><a href="{{route('front.contact')}}" class="links">contact page</a></li>
                              </ul>
                          </div>
                         <div class="col-md-4 mb">
                              <h5 class="heading-text">Adress</h5>
                              <p>
-                               1234 SOME AVENUE, <br/>
-                               NEW YORK, NY 56789<br/>
-                               INFO@YOUWEBSITE.COM<br/>
-                               (123) 456-7890<br/>
-                               (123) 456-7890<br/>
+                             1131 State Rt 55, Lagrangeville, NY, 12540<br/>
+                               contact@tesmaus.com<br/>
+                               +1 (845)520-0616<br/>
+
                              </p>
                         </div>
                     </div>    

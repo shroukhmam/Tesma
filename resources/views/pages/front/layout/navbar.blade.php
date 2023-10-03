@@ -11,7 +11,7 @@
                     <a class="nav-link" href="{{route('front.front')}}">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item" data-class=".about">
-                    <a class="nav-link dropabout" href="#">ABOUT</a>
+                    <a class="nav-link dropabout" href="#">ABOUT <i class="fa fa-caret-down"></i></a>
                     <div class="dropmenuabout">
                       <a class="nav-link" href="{{route('front.about')}}">About</a>
                       <hr>

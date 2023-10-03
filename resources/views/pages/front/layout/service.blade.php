@@ -12,35 +12,35 @@
 
                  <div class="responsive">
                      <div class="brand">
-                         <img src="{{URL::asset('assets/front/image/chart-pie-solid.svg')}}" width="50px" height="50px"/>
-                         <h3>Strategic Marketing Planning</h3>
-                         <p> At TESMA, we begin by crafting comprehensive marketing plans that encompass in-depth market analysis, target audience identification, and strategic campaign recommendations</p>
+                         <img src="{{URL::asset('assets/front/image/Strategic MarketingPNG4.png')}}" width="50px" height="50px"/>
+                         <h3>Marketing Planning</h3>
+                         <p>At TESMA, we specialize in crafting comprehensive marketing plans that go beyond the surface. Our approach involves in-depth market analysis, precise identification of your target audience, and strategic campaign recommendations.</p>
                      </div>
                      <div class="brand">
-                         <img src="{{URL::asset('assets/front/image/tint-solid.svg')}}" width="50px" height="50px"/>
+                         <img src="{{URL::asset('assets/front/image/End-to-End CampaignPNG4.png')}}" width="50px" height="50px"/>
                          <h3>Campaign Management</h3>
-                         <p> Leave the complexities of marketing campaigns to us. Our team of experts skillfully manages every aspect of your marketing initiatives across diverse channels</p>
+                         <p> Elevate your brand's presence and amplify sales with TESMA's End-to-End Campaign Management. We steer your journey from conception to realization, tailoring each step to your precise goals and aspirations. Our team takes charge of your marketing crafting your vision into reality</p>
                      </div>
                      <div class="brand">
-                         <img src="{{URL::asset('assets/front/image/clock-regular.svg')}}" width="50px" height="50px"/>
-                         <h3>Digital Presence </h3>
-                         <p> Embrace the power of digital channels with our comprehensive Digital Presence & Social Media service Our team takes charge of all aspects, including content creation, scheduling, and fostering around your brand</p>
+                         <img src="{{URL::asset('assets/front/image/Digital Presence &PNG4.png')}}" width="50px" height="50px"/>
+                         <h3>Digital <br> Presence </h3>
+                         <p>  In a world now entirely reliant on digital presence, everything converges within a single realm, where this presence has become an essential component of modern marketing strategies.</p>
                      </div>
                      <div class="brand">
-                         <img src="{{URL::asset('assets/front/image/map-regular.svg')}}" width="50px" height="50px"/>
+                         <img src="{{URL::asset('assets/front/image/ProcessPNG4.png')}}" width="50px" height="50px"/>
                          <h3>Process Optimization</h3>
-                         <p> At TESMA, we delve into your existing business processes to uncover inefficiencies and bottlenecks hindering your productivity. Through meticulous analysis, we identify opportunities for improvement and design tailored solutions to optimize your workflow</p>
+                         <p> Elevate Your Performance and Optimize Your Path In today's dynamic tech-driven landscape, optimizing business operations isn't just a choice, it's essential.</p>
                      </div>
 
                      <div class="brand">
-                         <img src="{{URL::asset('assets/front/image/chart-pie-solid.svg')}}" width="50px" height="50px"/>
-                         <h3>Business Integrations</h3>
-                         <p> Seamlessly integrating essential business tools and systems is the backbone of TESMA's Business Integration service.By facilitating smooth data flow and communication between various components of your business, we eliminate redundancy and inefficiencies. </p>
+                         <img src="{{URL::asset('assets/front/image/BusinessPNG4.png')}}" width="50px" height="50px"/>
+                         <h3>Business <br> Integrations</h3>
+                         <p> Integrate for Excellence At TESMA, we initiate a transformative journey through our Business Integration service, where the seamless alignment of essential tools and core systems emerges as the cornerstone of your operational excellence.</p>
                      </div>
                      <div class="brand">
-                         <img src="{{URL::asset('assets/front/image/tint-solid.svg')}}" width="50px" height="50px"/>
-                         <h3>Technology Implementation</h3>
-                         <p> Embracing cutting-edge technologies is crucial for gaining a competitive edge in today's rapidly evolving business landscape. TESMA empowers your business to harness technology effectively with our expert Technology Implementation service.</p>
+                         <img src="{{URL::asset('assets/front/image/TechnologyPNG4.png')}}" width="50px" height="50px"/>
+                         <h3>Technology <br> Implementation</h3>
+                         <p> Navigating Innovation In today's rapidly evolving business landscape, gaining a competitive edge demands embracing cutting-edge technologies.</p>
                      </div>
                  </div>
 <!--                  
